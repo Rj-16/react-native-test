@@ -1,0 +1,6 @@
+module Pods_BramhaGyan_BramhaGyanTests {
+  umbrella header "Pods-BramhaGyan-BramhaGyanTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

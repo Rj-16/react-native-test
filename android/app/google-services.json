@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116440613761",
+    "firebase_url": "https://bg-23456.firebaseio.com",
+    "project_id": "bg-23456",
+    "storage_bucket": "bg-23456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116440613761:android:b2f8cca3f5fd71445f1e80",
+        "android_client_info": {
+          "package_name": "com.bramhagyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116440613761-hsub25tsk3noli2cbp7rqrdb4nhglite.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAus37Wdpa_acZowuGbnFt3zFbKPtPy1jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116440613761-hsub25tsk3noli2cbp7rqrdb4nhglite.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

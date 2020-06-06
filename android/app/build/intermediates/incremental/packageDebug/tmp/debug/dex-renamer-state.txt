@@ -1,0 +1,4 @@
+#Sat May 30 16:00:26 IST 2020
+base.0=/Users/rajat/rj/projects/bramha_g/bramhaGyan-mobile/android/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
