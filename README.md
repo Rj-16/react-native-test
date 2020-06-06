@@ -1,8 +1,9 @@
 # react-native-test
 
+npx react-native run-ios
 
 Task 1 
-Structure of the files 
+Structure of the files, components , packages , property files in a managed way . Project Structure.
 
 Task 2
 Change the CSS setting, apply any template or theme
